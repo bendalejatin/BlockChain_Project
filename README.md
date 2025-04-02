@@ -9,6 +9,9 @@ The **Pension System Portal** is a blockchain-based decentralized application (D
 - Retired users can withdraw funds at fixed intervals.
 - Secure and transparent transactions powered by Ethereum blockchain.
 
+## BT_Transaction pdf 
+- This pdf shows the process for the steup of the metamask account and the deployment of the Smart Contract on the Remix IDE platform.
+
 ## Tech Stack
 - **Blockchain:** Ethereum
 - **Smart Contract Language:** Solidity ^0.8.0
